@@ -115,6 +115,6 @@ aplicando conceptos de programación, bases de datos y gestión de usuarios.
 <hr>
 
 <p align="center">
-  <strong>Autor:</strong> Mati<br>
+  <strong>Autor:</strong> Matias Javier Zini<br>
   <em>SetStock - Sistema de Gestión de Inventario</em>
 </p>
